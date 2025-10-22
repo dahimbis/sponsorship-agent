@@ -6,7 +6,7 @@ This project automates the process of drafting and sending cold emails to potent
 
 ## Features
 - Drafts multiple tailored sponsorship emails using AI agents  
-- Evaluates drafts to select the most suitable version  
+- Evaluates drafts to select the most suitable version of the cold email
 - Generates finalized HTML-formatted emails  
 - Sends polished emails automatically to the sponsor list
 
@@ -25,11 +25,11 @@ This project automates the process of drafting and sending cold emails to potent
    - Busy executive tone  
 
 2. **Evaluation Agent**  
-   - Compares drafts against sponsor targeting criteria  
+   - Compares drafts against sponsor targeting criteria, such as the type of sponsor.
    - Selects the draft that best matches the sponsor’s profile  
 
 3. **Formatting Agent**  
-   - Converts the chosen draft into a clean HTML email  
+   - Converts the selected draft into a clean HTML email  
 
 4. **Sending Agent**  
    - Sends the finalized HTML email to the sponsor list  
