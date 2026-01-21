@@ -1,6 +1,6 @@
 # Sponsorship Agent AI
 
-This project automates the process of drafting and sending cold emails to potential sponsors, such as companies and universities, for upcoming conferences. The goal is to clearly communicate sponsorship benefits and secure partnerships more efficiently.
+This project automates the process of drafting and sending cold emails to potential sponsors, such as companies and universities, for upcoming conferences or events. The goal is to clearly communicate sponsorship benefits and secure partnerships more efficiently.
 
 ---
 
